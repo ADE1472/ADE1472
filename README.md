@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ADE
-- 👀 I’m a Web Developer, Data Scientist
+- 👀 I’m a Web Developer, Data Scientist, Data Analyst and Business Analyst 
 - 🌱 I use Phyton, R, SQL, Andriod Studio, Java & HTML
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me +447599686919
