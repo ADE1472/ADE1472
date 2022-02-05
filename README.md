@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ADE
-- 👀 I’m interested in Javascript coding
-- 🌱 I’m currently learning Phyton
+- 👀 I’m a Web Developer, Data Scientist
+- 🌱 I use Phyton, R, SQL, Andriod Studio, Java & HTML
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me +447599686919
 
